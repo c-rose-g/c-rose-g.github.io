@@ -7943,7 +7943,7 @@ textarea.form-control-lg {
 }
 
 .rounded-circle {
-  border-radius: 50% !important;
+  border-radius: 9999px !important;
 }
 
 .rounded-pill {
@@ -11474,6 +11474,19 @@ section.resume-section .resume-section-content {
   /* justify-content: center; */
 }
 
+.project-img{
+  height:569px;
+  width:1000px;
+  margin-bottom: 10%;
+  border-radius: 2%;
+}
+
+.project-img-small{
+  height: 900px;
+  width: 1000px;
+  margin-bottom: 10%;
+  border-radius: 2%;
+}
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
