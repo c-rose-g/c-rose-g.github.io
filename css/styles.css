@@ -11431,7 +11431,7 @@ section.resume-section .resume-section-content {
 }
 
 .service-box{
-  /* background-color: blue; */
+  background-color: white;
   /* padding: 2rem 1rem; */
   border:.01px  lightgrey;
   padding: 5px 5px;
@@ -11479,6 +11479,7 @@ section.resume-section .resume-section-content {
   width:1000px;
   margin-bottom: 10%;
   border-radius: 2%;
+  box-shadow: 0 13px 8px -10px rgb(0 0 0 / 10%);
 }
 
 .project-img-small{
@@ -11486,6 +11487,7 @@ section.resume-section .resume-section-content {
   width: 1000px;
   margin-bottom: 10%;
   border-radius: 2%;
+  box-shadow: 0 13px 8px -10px rgb(0 0 0 / 10%);
 }
 @media (min-width: 768px) {
   section.resume-section {
